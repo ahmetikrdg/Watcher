@@ -1,0 +1,76 @@
+D:\Wather1.0\Wather1.0\obj\Debug\Wather1.0.csprojAssemblyReference.cache
+D:\Wather1.0\Wather1.0\obj\Debug\Wather1._0.Form1.resources
+D:\Wather1.0\Wather1.0\obj\Debug\Wather1._0.Properties.Resources.resources
+D:\Wather1.0\Wather1.0\obj\Debug\Wather1.0.csproj.GenerateResource.cache
+D:\Wather1.0\Wather1.0\obj\Debug\Wather1.0.csproj.CoreCompileInputs.cache
+D:\Wather1.0\Wather1.0\bin\Debug\Wather1.0.exe.config
+D:\Wather1.0\Wather1.0\bin\Debug\Wather1.0.exe
+D:\Wather1.0\Wather1.0\bin\Debug\Wather1.0.pdb
+D:\Wather1.0\Wather1.0\bin\Debug\WebDriver.dll
+D:\Wather1.0\Wather1.0\bin\Debug\WebDriver.xml
+D:\Wather1.0\Wather1.0\obj\Debug\Wather1.0.csproj.CopyComplete
+D:\Wather1.0\Wather1.0\obj\Debug\Wather1.0.exe
+D:\Wather1.0\Wather1.0\obj\Debug\Wather1.0.pdb
+D:\Wather1.0 - Kopya\Wather1.0\bin\Debug\Wather1.0.exe.config
+D:\Wather1.0 - Kopya\Wather1.0\bin\Debug\Wather1.0.exe
+D:\Wather1.0 - Kopya\Wather1.0\bin\Debug\Wather1.0.pdb
+D:\Wather1.0 - Kopya\Wather1.0\bin\Debug\WebDriver.dll
+D:\Wather1.0 - Kopya\Wather1.0\bin\Debug\WebDriver.xml
+D:\Wather1.0 - Kopya\Wather1.0\obj\Debug\Wather1.0.csprojAssemblyReference.cache
+D:\Wather1.0 - Kopya\Wather1.0\obj\Debug\Wather1._0.Form1.resources
+D:\Wather1.0 - Kopya\Wather1.0\obj\Debug\Wather1._0.Properties.Resources.resources
+D:\Wather1.0 - Kopya\Wather1.0\obj\Debug\Wather1.0.csproj.GenerateResource.cache
+D:\Wather1.0 - Kopya\Wather1.0\obj\Debug\Wather1.0.csproj.CoreCompileInputs.cache
+D:\Wather1.0 - Kopya\Wather1.0\obj\Debug\Wather1.0.csproj.CopyComplete
+D:\Wather1.0 - Kopya\Wather1.0\obj\Debug\Wather1.0.exe
+D:\Wather1.0 - Kopya\Wather1.0\obj\Debug\Wather1.0.pdb
+C:\Users\muhammetkaya\Desktop\WatcherF-master\Wather1.0\bin\Debug\Wather1.0.exe.config
+C:\Users\muhammetkaya\Desktop\WatcherF-master\Wather1.0\bin\Debug\Wather1.0.exe
+C:\Users\muhammetkaya\Desktop\WatcherF-master\Wather1.0\bin\Debug\Wather1.0.pdb
+C:\Users\muhammetkaya\Desktop\WatcherF-master\Wather1.0\bin\Debug\WebDriver.dll
+C:\Users\muhammetkaya\Desktop\WatcherF-master\Wather1.0\bin\Debug\WebDriver.xml
+C:\Users\muhammetkaya\Desktop\WatcherF-master\Wather1.0\obj\Debug\Wather1.0.csprojAssemblyReference.cache
+C:\Users\muhammetkaya\Desktop\WatcherF-master\Wather1.0\obj\Debug\Wather1._0.Form1.resources
+C:\Users\muhammetkaya\Desktop\WatcherF-master\Wather1.0\obj\Debug\Wather1._0.Properties.Resources.resources
+C:\Users\muhammetkaya\Desktop\WatcherF-master\Wather1.0\obj\Debug\Wather1.0.csproj.GenerateResource.cache
+C:\Users\muhammetkaya\Desktop\WatcherF-master\Wather1.0\obj\Debug\Wather1.0.csproj.CoreCompileInputs.cache
+C:\Users\muhammetkaya\Desktop\WatcherF-master\Wather1.0\obj\Debug\Wather1.0.csproj.CopyComplete
+C:\Users\muhammetkaya\Desktop\WatcherF-master\Wather1.0\obj\Debug\Wather1.0.exe
+C:\Users\muhammetkaya\Desktop\WatcherF-master\Wather1.0\obj\Debug\Wather1.0.pdb
+C:\Users\Ahmet\Downloads\watcher-master\Wather1.0\obj\Debug\Wather1.0.csprojAssemblyReference.cache
+C:\Users\Ahmet\Downloads\watcher-master\Wather1.0\obj\Debug\Wather1._0.Form1.resources
+C:\Users\Ahmet\Downloads\watcher-master\Wather1.0\obj\Debug\Wather1._0.Properties.Resources.resources
+C:\Users\Ahmet\Downloads\watcher-master\Wather1.0\obj\Debug\Wather1.0.csproj.GenerateResource.cache
+C:\Users\Ahmet\Downloads\watcher-master\Wather1.0\obj\Debug\Wather1.0.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\Downloads\watcher-master\Wather1.0\obj\Debug\Wather1.0.exe
+C:\Users\Ahmet\Downloads\watcher-master\Wather1.0\obj\Debug\Wather1.0.pdb
+C:\Users\Ahmet\Downloads\watcher-master\Wather1.0\bin\Debug\Wather1.0.exe.config
+C:\Users\Ahmet\Downloads\watcher-master\Wather1.0\bin\Debug\Wather1.0.exe
+C:\Users\Ahmet\Downloads\watcher-master\Wather1.0\bin\Debug\Wather1.0.pdb
+C:\Users\Ahmet\Downloads\watcher-master\Wather1.0\bin\Debug\WebDriver.dll
+C:\Users\Ahmet\Downloads\watcher-master\Wather1.0\bin\Debug\WebDriver.xml
+C:\Users\Ahmet\Downloads\watcher-master\Wather1.0\obj\Debug\Wather1.0.csproj.CopyComplete
+C:\Users\Ahmet\Downloads\watcher-master\Wather1.0\bin\Debug\Castle.Core.dll
+C:\Users\Ahmet\Downloads\watcher-master\Wather1.0\bin\Debug\Microsoft.Graph.Core.dll
+C:\Users\Ahmet\Downloads\watcher-master\Wather1.0\bin\Debug\Microsoft.Graph.dll
+C:\Users\Ahmet\Downloads\watcher-master\Wather1.0\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\Ahmet\Downloads\watcher-master\Wather1.0\bin\Debug\Microsoft.SqlServer.Data.Tools.ExceptionMessageBox.dll
+C:\Users\Ahmet\Downloads\watcher-master\Wather1.0\bin\Debug\Moq.dll
+C:\Users\Ahmet\Downloads\watcher-master\Wather1.0\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ahmet\Downloads\watcher-master\Wather1.0\bin\Debug\System.Buffers.dll
+C:\Users\Ahmet\Downloads\watcher-master\Wather1.0\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ahmet\Downloads\watcher-master\Wather1.0\bin\Debug\System.Memory.dll
+C:\Users\Ahmet\Downloads\watcher-master\Wather1.0\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ahmet\Downloads\watcher-master\Wather1.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ahmet\Downloads\watcher-master\Wather1.0\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ahmet\Downloads\watcher-master\Wather1.0\bin\Debug\Castle.Core.xml
+C:\Users\Ahmet\Downloads\watcher-master\Wather1.0\bin\Debug\Microsoft.Graph.xml
+C:\Users\Ahmet\Downloads\watcher-master\Wather1.0\bin\Debug\Microsoft.Graph.Core.xml
+C:\Users\Ahmet\Downloads\watcher-master\Wather1.0\bin\Debug\Moq.xml
+C:\Users\Ahmet\Downloads\watcher-master\Wather1.0\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ahmet\Downloads\watcher-master\Wather1.0\bin\Debug\System.Buffers.xml
+C:\Users\Ahmet\Downloads\watcher-master\Wather1.0\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ahmet\Downloads\watcher-master\Wather1.0\bin\Debug\System.Memory.xml
+C:\Users\Ahmet\Downloads\watcher-master\Wather1.0\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ahmet\Downloads\watcher-master\Wather1.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ahmet\Downloads\watcher-master\Wather1.0\bin\Debug\System.Threading.Tasks.Extensions.xml
